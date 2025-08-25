@@ -1,0 +1,7 @@
+.footer {
+  padding: 20px;
+  background: #fdf6e3; /* light positive background */
+  color: #555; /* dark text for readability */
+  text-align: center;
+  font-size: 0.9rem;
+}
